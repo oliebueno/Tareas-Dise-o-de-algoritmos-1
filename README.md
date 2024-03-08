@@ -113,9 +113,10 @@ Además, la ejecución de los algoritmos se realizo usando el programa y siguien
 | 10.        | Blanco  | -4    | 4286712056  | 1324722117 | 2545.57    | 520403          |
 
 ## Comparación de los algoritmos
-A continuación se presentan gráficos que comparan el rendimiento de los algoritmos estudiados.
+A continuación se presentan gráficos que comparan el rendimiento de los algoritmos estudiados. Dichos gráficos se muestran en notación logarítmica para mejor apreciación de los resultados.
 
-Picture of Duck:
+Gráfico 1: Figure 1: Nodos generados por corrida. La primera graca muestra los resultados en notacion
+logartmica para apreciar de mejor manera la diferencia entre los distintos algoritmos
 
 ![Duck][1]
 
@@ -123,4 +124,4 @@ Same picture of Duck:
 
 ![Same Duck][1]
 
-[1]: http://i.stack.imgur.com/ukC2U.jpg
+[1]: [http://i.stack.imgur.com/ukC2U.jpg](https://github.com/oliebueno/Tareas-Dise-o-de-algoritmos-1/blob/main/imaexp.jpg)https://github.com/oliebueno/Tareas-Dise-o-de-algoritmos-1/blob/main/imaexp.jpg
