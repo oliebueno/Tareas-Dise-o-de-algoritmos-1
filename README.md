@@ -115,6 +115,7 @@ Además, la ejecución de los algoritmos se realizo usando el programa y siguien
 ## Comparación de los algoritmos
 A continuación se presentan gráficos que comparan el rendimiento de los algoritmos estudiados. Dichos gráficos se muestran en notación logarítmica para mejor apreciación de los resultados.
 
+
 Gráfico 1: Nodos expandidos en cada nivel
 
 ![Expandidos][1]
@@ -142,6 +143,7 @@ Por otro lado, comparando los algoritmos Scout y Negascout, estos presentan un c
 También es importante observar que el algotitmos Negamax con poda alfa-beta se comporta com mejor rendimiento que los demás en los primeros 11 nieveles del árbol de juego.
 
 Comparando los resultados de las corridas de los cuatro algoritmos, se observa que los algoritmos Scout y Negascout recorren a mayor profundidad (tienen los menores pv) el árbol de juego, esto se observa mejor en la siguiente gráfica.
+
 
 Gráfico 4: Tiempo en recorrer cada nivel
 
