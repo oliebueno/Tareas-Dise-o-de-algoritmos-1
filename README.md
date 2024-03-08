@@ -145,7 +145,7 @@ También es importante observar que el algotitmos Negamax con poda alfa-beta se 
 Comparando los resultados de las corridas de los cuatro algoritmos, se observa que los algoritmos Scout y Negascout recorren a mayor profundidad (tienen los menores pv) el árbol de juego, esto se observa mejor en la siguiente gráfica.
 
 
-Gráfico 4: Tiempo en recorrer cada nivel
+Gráfico 4: Valores mínimos de los pv
 
 ![pv][4]
 
