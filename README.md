@@ -124,4 +124,4 @@ Same picture of Duck:
 
 ![Same Duck][1]
 
-[1]: imaexp.jpg
+[1]: /imaexp.jpg
