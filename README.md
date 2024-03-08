@@ -124,4 +124,4 @@ Same picture of Duck:
 
 ![Same Duck][1]
 
-[1]: [http://i.stack.imgur.com/ukC2U.jpg](https://github.com/oliebueno/Tareas-Dise-o-de-algoritmos-1/blob/main/imaexp.jpg)https://github.com/oliebueno/Tareas-Dise-o-de-algoritmos-1/blob/main/imaexp.jpg
+[1]: imaexp.jpg
