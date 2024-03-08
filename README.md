@@ -115,9 +115,21 @@ Además, la ejecución de los algoritmos se realizo usando el programa y siguien
 ## Comparación de los algoritmos
 A continuación se presentan gráficos que comparan el rendimiento de los algoritmos estudiados. Dichos gráficos se muestran en notación logarítmica para mejor apreciación de los resultados.
 
-Gráfico 1: Figure 1: Nodos generados por corrida. La primera gráfica muestra los resultados en notación
-logarítmica para apreciar de mejor manera la diferencia entre los distintos algoritmos
+Gráfico 1: Nodos expandidos en cada nivel
 
-![sdsdsd][1]
+![Expandidos][1]
 
 [1]: Figuras/imaexp.jpg
+
+Gráfico 1: Nodos generados en cada nivel
+
+![Expandidos][1]
+
+[1]: Figuras/imagene.jpg
+
+Gráfico 1: Tiempo en recorrer cada nivel
+
+![Expandidos][1]
+
+[1]: Figuras/imatiem.jpg
+
