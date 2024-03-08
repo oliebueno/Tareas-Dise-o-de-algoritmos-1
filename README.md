@@ -123,13 +123,13 @@ Gráfico 1: Nodos expandidos en cada nivel
 
 Gráfico 2: Nodos generados en cada nivel
 
-![Generados][1]
+![Generados][2]
 
-[1]: Figuras/imagene.jpg
+[2]: Figuras/imagene.jpg
 
 Gráfico 3: Tiempo en recorrer cada nivel
 
-![Tiempo][1]
+![Tiempo][3]
 
-[1]: Figuras/imatiem.jpg
+[3]: Figuras/imatiem.jpg
 
