@@ -113,11 +113,11 @@ Además, la ejecución de los algoritmos se realizo usando el programa y siguien
 | 10.        | Blanco  | -4    | 4286712056  | 1324722117 | 2545.57    | 520403          |
 
 ## Comparación de los algoritmos
-A continuacián se presentan gráficos que comparan el rendimiento de los algoritmos estudiados. Dichos gráficos se muestran en notación logarítmica para mejor apreciación de los resultados.
+A continuación se presentan gráficos que comparan el rendimiento de los algoritmos estudiados. Dichos gráficos se muestran en notación logarítmica para mejor apreciación de los resultados.
 
-Gráfico 1: Figure 1: Nodos generados por corrida. La primera graca muestra los resultados en notacion
-logartmica para apreciar de mejor manera la diferencia entre los distintos algoritmos
+Gráfico 1: Figure 1: Nodos generados por corrida. La primera gráfica muestra los resultados en notación
+logarítmica para apreciar de mejor manera la diferencia entre los distintos algoritmos
 
 ![sdsdsd][1]
 
-[1]: /imaexp.jpg
+[1]: Figuras/imaexp.jpg
