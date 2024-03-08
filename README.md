@@ -118,10 +118,6 @@ A continuación se presentan gráficos que comparan el rendimiento de los algori
 Gráfico 1: Figure 1: Nodos generados por corrida. La primera graca muestra los resultados en notacion
 logartmica para apreciar de mejor manera la diferencia entre los distintos algoritmos
 
-![Duck][1]
-
-Same picture of Duck:
-
-![Same Duck][1]
+![sdsdsd][1]
 
 [1]: /imaexp.jpg
