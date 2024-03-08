@@ -114,3 +114,13 @@ Además, la ejecución de los algoritmos se realizo usando el programa y siguien
 
 ## Comparación de los algoritmos
 A continuación se presentan gráficos que comparan el rendimiento de los algoritmos estudiados.
+
+Picture of Duck:
+
+![Duck][1]
+
+Same picture of Duck:
+
+![Same Duck][1]
+
+[1]: http://i.stack.imgur.com/ukC2U.jpg
